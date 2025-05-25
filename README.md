@@ -10,6 +10,7 @@ A simple web app that changes the background color of the page when a button is 
 🧼 Minimal and easy-to-understand code
 
 🛠️ Built With
+
 🌐 HTML
 
 🎨 CSS
